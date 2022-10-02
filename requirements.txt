@@ -1,0 +1,11 @@
+# Original requirements
+numpy
+opencv-python
+scikit-image
+numba
+
+# Viz
+trimesh
+
+# CUDA stuff, comment out if you don't have a GPU
+pycuda
